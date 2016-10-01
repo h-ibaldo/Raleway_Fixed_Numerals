@@ -1,2 +1,2 @@
 # raleway_number_fix
-Raleway With Lining Numbers as Default
+Raleway With Lining Numerals as Default
