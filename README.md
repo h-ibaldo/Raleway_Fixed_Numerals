@@ -14,7 +14,7 @@ There are two ways to use Rawline: 1. Embedding it or 2. Self-hosting it.
 
 ##1.1. Embedding into your HTML document
 
-To embed Rawline font into a webpage, copy this code into the <head> of your HTML document:
+To embed Rawline font into a webpage, copy this code into the < head > of your HTML document:
    
     <link href="https://raw.githubusercontent.com/h-ibaldo/Raleway_Fixed_Numerals/master/css/rawline.css" rel="stylesheet"> 
 
