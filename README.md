@@ -14,13 +14,13 @@ There are 3 ways to use Rawline: 1. Embedding it or 2. Self-hosting it.
 
 To embed Rawline font into a webpage, copy this code into the <head> of your HTML document:
    
-   <link href="https://raw.githubusercontent.com/h-ibaldo/Raleway_Fixed_Numerals/master/css/rawline.css" rel="stylesheet"> 
+    <link href="https://raw.githubusercontent.com/h-ibaldo/Raleway_Fixed_Numerals/master/css/rawline.css" rel="stylesheet"> 
 
 1.2. Embedding into your CSS stylesheet
 
 To embed Rawline font into your stylesheet, copy this code into your CSS document:
    
-   @import 'https://raw.githubusercontent.com/h-ibaldo/Raleway_Fixed_Numerals/master/css/rawline.css';
+    @import 'https://raw.githubusercontent.com/h-ibaldo/Raleway_Fixed_Numerals/master/css/rawline.css';
 
 
 2. Self Hosting
