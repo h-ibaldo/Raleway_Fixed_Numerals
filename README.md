@@ -2,6 +2,8 @@
 
 Rawline is your beloved Raleway font with lining numerals as default.
 
+![Rawline](https://raw.githubusercontent.com/h-ibaldo/Raleway_Fixed_Numerals/master/banner.jpg)
+
 #HOW TO USE IT
 
 There are two ways to use Rawline: 1. Embedding it or 2. Self-hosting it.
