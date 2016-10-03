@@ -4,7 +4,7 @@ Rawline is your beloved Raleway font with lining numerals as default.
 
 #HOW TO USE IT
 
-There are 3 ways to use Rawline: 1. Embedding it or 2. Self-hosting it.
+There are two ways to use Rawline: 1. Embedding it or 2. Self-hosting it.
 
 
 #1. Embedding Rawline
