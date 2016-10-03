@@ -34,7 +34,7 @@ To serve Rawline using your website’s own server, download the font files insi
 
 #1. Use the following CSS rules to specify Rawline family: 
 
-   font-family: 'rawline', sans-serif; 
+    font-family: 'rawline', sans-serif; 
 
 #2. Use the following CSS rules to specify Rawline styles:
 
