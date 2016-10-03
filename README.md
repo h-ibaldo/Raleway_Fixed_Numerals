@@ -2,7 +2,7 @@
 
 Rawline is your beloved Raleway font with lining numerals as default.
 
-HOW TO USE IT
+#HOW TO USE IT
 
 There are 3 ways to use Rawline: 1. Embedding it or 2. Self-hosting it.
 
@@ -10,13 +10,13 @@ There are 3 ways to use Rawline: 1. Embedding it or 2. Self-hosting it.
 #1. Embedding Rawline
 
 
-1.1. Embedding into your HTML document
+##1.1. Embedding into your HTML document
 
 To embed Rawline font into a webpage, copy this code into the <head> of your HTML document:
    
     <link href="https://raw.githubusercontent.com/h-ibaldo/Raleway_Fixed_Numerals/master/css/rawline.css" rel="stylesheet"> 
 
-1.2. Embedding into your CSS stylesheet
+##1.2. Embedding into your CSS stylesheet
 
 To embed Rawline font into your stylesheet, copy this code into your CSS document:
    
@@ -28,7 +28,7 @@ To embed Rawline font into your stylesheet, copy this code into your CSS documen
 To serve Rawline using your website’s own server, download the font files inside the /font folder in this repository and use the rawline.css stylesheet, located in the /css folder in this repository.
 
 
-SPECIFY IN CSS
+#SPECIFY IN CSS
 
 #1. Use the following CSS rules to specify Rawline family: 
 
