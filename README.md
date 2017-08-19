@@ -1,3 +1,5 @@
+UPDATE: Rawline now supports 105 latin languages, including igbo onwu and vietnamite, russian cyrillic (default) and bulgarian cyrillic (OpenType feature) - Contribution by @cssobral2013 
+
 # Rawline: Raleway Font With Lining Numerals
 
 Rawline is your beloved Raleway font with lining numerals as default.
