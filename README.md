@@ -1,3 +1,9 @@
+## UPDATE: RAWLINE IS NOT BEING MAINTAINED ANYMORE.
+
+### *For a better and more up to date alternative, try [MONORALE](https://github.com/samvk/monorale-raleway-sober)*
+
+/////////////////
+
 UPDATE: Rawline now supports 105 latin languages, including igbo onwu and vietnamite, russian cyrillic (default) and bulgarian cyrillic (OpenType feature) - Contribution by @cssobral2013 
 
 # Rawline: Raleway Font With Lining Numerals
